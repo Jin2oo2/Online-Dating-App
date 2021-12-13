@@ -1,24 +1,7 @@
-# online-dating-app
+# Online-Dating-App
+This is a simple matching application where you can view users and text messages.
 
-## Project setup
-```
-npm install
-```
+Used Vue CLI, Vue router, Vuex, and API
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Versel
+https://online-dating-app.vercel.app/#/
